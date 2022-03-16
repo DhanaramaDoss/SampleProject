@@ -1,1 +1,1 @@
-Test file created for Samplecode.sh
+echo “welcome to sample project”
